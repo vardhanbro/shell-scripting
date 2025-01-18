@@ -8,6 +8,6 @@ Y="\e[=33m"
 
 
 
-     echo "installing  Mysql .... $R failed"
+     echo -e "installing  Mysql .... $R failed"
   
-    echo "installing  Mysql ..... $G Sucess"
+    echo -e "installing  Mysql ..... $G Sucess"
